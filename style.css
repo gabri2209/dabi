@@ -1,0 +1,19 @@
+.p1{
+    background-color: rgb(255, 255, 255);
+}
+.i1{
+    font-size: medium;
+    color: #000000;
+    padding: 60px;
+    display: flex;
+
+}
+.title{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.imagem1{
+    width: 25%
+    display: flex;
+}
